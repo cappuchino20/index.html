@@ -1,6 +1,0 @@
-
-  <body>
-    <p>내가 왜 이런것까지 해야하지</p>
-    <a href="https://cappuchino20.github.io/sum.html/main.html">제 노력을 10초만에 읽어보세요.</a>
-  </body>
-
